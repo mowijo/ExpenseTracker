@@ -1,0 +1,5 @@
+*swp
+Server/tests/logs
+Client/build/
+Client/Client.pro.user
+build-Client-Desktop-Debug

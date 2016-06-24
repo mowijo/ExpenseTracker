@@ -1,0 +1,4 @@
+CREATE USER 'webserver'@'%' IDENTIFIED BY 'BrBa';
+GRANT ALL PRIVILEGES ON data.* TO 'webserver'@'%';
+FLUSH PRIVILEGES;
+
